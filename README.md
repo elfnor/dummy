@@ -8,3 +8,4 @@
 4.  `[old-lenses](old-lenses)` [old-lenses](old-lenses)
 5.  `[old-lenses]({filename}old-lenses.md)` [old-lenses]({filename}old-lenses.md)
 
+[sub folder](./sub1/test_link_11.md)
